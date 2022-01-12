@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_project/week3/core/localizate/application_strings.dart';
+import '../localizate/application_strings.dart';
 
 class IconTextWidget extends StatelessWidget {
   final String title;

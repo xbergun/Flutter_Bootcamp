@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week2/core/component/card/post_card.dart';
-import 'package:flutter_project/week2/posts_json_place_holder/posts_json_place_holder_view_model.dart';
+import '../core/component/card/post_card.dart';
+import 'posts_json_place_holder_view_model.dart';
 
 class PostJsonPlaceHolderView extends PostJsonPlaceHolderViewModel {
   final String title = "Json Place Holder";

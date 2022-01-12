@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week2/core/component/card/user_card.dart';
-import 'package:flutter_project/week2/core/component/opacity/image_opacity.dart';
-import 'package:flutter_project/week2/core/enum/duration_enum.dart';
-import 'package:flutter_project/week2/core/image_manager.dart';
-import 'package:flutter_project/week2/stateless/home_detail_stateless.dart';
+import '../core/component/card/user_card.dart';
+import '../core/component/opacity/image_opacity.dart';
+import '../core/enum/duration_enum.dart';
+import '../core/image_manager.dart';
+import '../stateless/home_detail_stateless.dart';
 
 import 'model/user.dart';
 

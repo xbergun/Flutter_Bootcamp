@@ -1,4 +1,4 @@
-import 'package:flutter_project/week2/core/exception/duration_exception.dart';
+import '../exception/duration_exception.dart';
 
 enum DurationEnums { LOW, NORMAL, HIGH, NORMAL2 }
 

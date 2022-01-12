@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week3/core/widgets/card/food_card.dart';
-import 'package:flutter_project/week3/food_card/food_card.dart';
+import '../core/widgets/card/food_card.dart';
+import 'food_card.dart';
 
 import '../core/localizate/application_strings.dart';
 import 'food_card_view_model.dart';

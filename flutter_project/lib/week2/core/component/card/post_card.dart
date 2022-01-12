@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week2/posts_json_place_holder/model/post_model.dart';
+import '../../../posts_json_place_holder/model/post_model.dart';
 
 class PostCard extends StatefulWidget {
   final PostModel? model;

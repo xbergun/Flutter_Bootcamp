@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week2/statefull/model/user.dart';
+
+import '../../../statefull/model/user.dart';
 
 class UserCard extends StatelessWidget {
   final User user;

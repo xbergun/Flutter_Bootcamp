@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/week3/food_card/model/food_model.dart';
+import 'model/food_model.dart';
 
 import 'food_card.dart';
 
