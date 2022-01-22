@@ -19,10 +19,11 @@ class LightTheme extends ITheme {
         appBarTheme: _lightTheme.appBarTheme.copyWith(
           backgroundColor: Colors.white,
           centerTitle: true,
-          
         ),
-         hintColor:Colors.green ,
+        hintColor: Colors.green,
         colorScheme: _lightTheme.colorScheme
             .copyWith(primary: Colors.white, onPrimary: colors.lynch),
+        tabBarTheme: TabBarTheme(
+            labelColor: Colors.black, unselectedLabelColor: Colors.red),
       );
 }
